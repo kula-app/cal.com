@@ -213,7 +213,7 @@ export default function Shell(props: {
     <>
       <CustomBranding lightVal={user?.brandColor} darkVal={user?.darkBrandColor} />
       <HeadSeo
-        title={pageTitle ?? "Cal.com"}
+        title={pageTitle ?? "meet.kula.app"}
         description={props.subtitle ? props.subtitle?.toString() : ""}
         nextSeoProps={{
           nofollow: true,
@@ -453,7 +453,7 @@ function UserDropdown({ small }: { small?: boolean }) {
                   {user?.username || "Nameless User"}
                 </span>
                 <span className="block truncate font-normal text-neutral-500">
-                  {user?.username ? `cal.com/${user.username}` : "No public page"}
+                  {user?.username ? `meet.kula.app/${user.username}` : "No public page"}
                 </span>
               </span>
               <SelectorIcon

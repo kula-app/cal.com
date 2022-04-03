@@ -10,7 +10,7 @@ export const metadata = {
   imageSrc: "/apps/zoom.svg",
   variant: "conferencing",
   logo: "/apps/zoom.svg",
-  publisher: "Cal.com",
+  publisher: "meet.kula.app",
   url: "https://zoom.us/",
   verified: true,
   rating: 4.3, // TODO: placeholder for now, pull this from TrustPilot or G2
@@ -20,7 +20,7 @@ export const metadata = {
   slug: "zoom",
   title: "Zoom Video",
   trending: true,
-  email: "help@cal.com",
+  email: "help@kula.app",
   locationType: "integrations:zoom",
 } as App;
 

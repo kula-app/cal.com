@@ -281,7 +281,7 @@ const BookingPage = ({ eventType, booking, profile }: BookingPageProps) => {
                 eventTypeTitle: eventType.title,
                 profileName: profile.name,
               })}{" "}
-          | Cal.com
+          | meet.kula.app
         </title>
         <link rel="icon" href="/favicon.ico" />
       </Head>

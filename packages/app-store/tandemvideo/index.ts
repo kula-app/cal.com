@@ -21,7 +21,7 @@ export const metadata = {
   rating: 0,
   reviews: 0,
   isGlobal: false,
-  email: "help@cal.com",
+  email: "help@kula.app",
   locationType: "integrations:tandem",
 } as App;
 

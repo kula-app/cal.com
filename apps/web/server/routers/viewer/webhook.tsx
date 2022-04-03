@@ -163,7 +163,7 @@ export const webhookRouter = createProtectedRouter()
         ],
         organizer: {
           name: "Cal",
-          email: "no-reply@cal.com",
+          email: "no-reply@kula.app",
           timeZone: "Europe/London",
           language,
         },

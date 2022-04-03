@@ -12,7 +12,7 @@ export const metadata = {
   url: "https://daily.co/",
   trending: true,
   logo: "/apps/daily.svg",
-  publisher: "Cal.com",
+  publisher: "meet.kula.app",
   verified: true,
   rating: 4.3, // TODO: placeholder for now, pull this from TrustPilot or G2
   reviews: 69, // TODO: placeholder for now, pull this from TrustPilot or G2
@@ -21,7 +21,7 @@ export const metadata = {
   slug: "dailyvideo",
   title: "Daily.co Video",
   isGlobal: true,
-  email: "help@cal.com",
+  email: "help@kula.app",
   locationType: "integrations:daily",
   key: { apikey: process.env.DAILY_API_KEY },
 } as App;

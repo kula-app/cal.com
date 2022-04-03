@@ -22,7 +22,7 @@ export default function Logout(props: Props) {
   const router = useRouter();
   useEffect(() => {
     if (props.query?.survey === "true") {
-      router.push("https://cal.com/cancellation");
+      router.push("https://meet.kula.app/cancellation");
     }
   }, []);
   const { t } = useLocale();

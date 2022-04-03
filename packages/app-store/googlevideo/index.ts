@@ -15,13 +15,13 @@ export const metadata = {
   variant: "conferencing",
   label: "Google Meet",
   logo: "https://cdn.iconscout.com/icon/free/png-256/google-meet-2923654-2416657.png",
-  publisher: "Cal.com",
+  publisher: "meet.kula.app",
   rating: 5,
   reviews: 69,
   trending: false,
-  url: "https://cal.com/",
+  url: "https://meet.kula.app/",
   verified: true,
-  email: "help@cal.com",
+  email: "help@kula.app",
   locationType: "integrations:google:meet",
 } as App;
 

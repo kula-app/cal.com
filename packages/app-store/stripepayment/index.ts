@@ -18,14 +18,14 @@ export const metadata = {
   reviews: 69,
   imageSrc: "/apps/stripe.svg",
   label: "Stripe",
-  publisher: "Cal.com",
+  publisher: "meet.kula.app",
   title: "Stripe",
   type: "stripe_payment",
-  url: "https://cal.com/",
+  url: "https://meet.kula.app/",
   docsUrl: "https://stripe.com/docs",
   variant: "payment",
   verified: true,
-  email: "help@cal.com",
+  email: "help@kula.app",
 } as App;
 
 export * as api from "./api";

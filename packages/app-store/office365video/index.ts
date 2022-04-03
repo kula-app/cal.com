@@ -10,7 +10,7 @@ export const metadata = {
   imageSrc: "/apps/msteams.svg",
   variant: "conferencing",
   logo: "/apps/msteams.svg",
-  publisher: "Cal.com",
+  publisher: "meet.kula.app",
   url: "https://www.microsoft.com/en-ca/microsoft-teams/group-chat-software",
   verified: true,
   rating: 4.3, // TODO: placeholder for now, pull this from TrustPilot or G2
@@ -20,7 +20,7 @@ export const metadata = {
   slug: "msteams",
   title: "MS Teams",
   trending: true,
-  email: "help@cal.com",
+  email: "help@kula.app",
   locationType: "integrations:office365_video",
 } as App;
 

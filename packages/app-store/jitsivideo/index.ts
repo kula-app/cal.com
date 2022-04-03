@@ -11,7 +11,7 @@ export const metadata = {
   variant: "conferencing",
   logo: "/apps/jitsi.svg",
   locationType: "integrations:jitsi",
-  publisher: "Cal.com",
+  publisher: "meet.kula.app",
   url: "https://jitsi.org/",
   verified: true,
   rating: 0, // TODO: placeholder for now, pull this from TrustPilot or G2
@@ -22,7 +22,7 @@ export const metadata = {
   title: "Jitsi Meet",
   trending: true,
   isGlobal: true,
-  email: "help@cal.com",
+  email: "help@kula.app",
 } as App;
 
 export * as lib from "./lib";

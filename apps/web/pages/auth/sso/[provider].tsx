@@ -159,7 +159,7 @@ const getStripePremiumUsernameUrl = async ({
       },
     ],
     success_url: `${process.env.NEXT_PUBLIC_WEBAPP_URL}${successDestination}&session_id={CHECKOUT_SESSION_ID}`,
-    cancel_url: process.env.NEXT_PUBLIC_WEBAPP_URL || "https://app.cal.com",
+    cancel_url: process.env.NEXT_PUBLIC_WEBAPP_URL || "https://meet.kula.app",
     allow_promotion_codes: true,
   });
 

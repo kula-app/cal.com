@@ -204,7 +204,7 @@ export default function App({
                 reviews. Nevertheless, Cal.com, Inc. does not endorse or certify these apps unless they are
                 published by Cal.com. If you encounter inappropriate content or behaviour please report it.
               </small>
-              <a className="mt-2 block text-xs text-red-500" href="mailto:help@cal.com">
+              <a className="mt-2 block text-xs text-red-500" href="mailto:help@kula.app">
                 <FlagIcon className="inline h-3 w-3" /> Report App
               </a>
             </div>

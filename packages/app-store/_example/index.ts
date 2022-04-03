@@ -11,17 +11,17 @@ export const metadata = {
   imageSrc: "/cal-com-icon.svg",
   logo: "/cal-com-icon.svg",
   label: "Example App",
-  publisher: "Cal.com",
+  publisher: "meet.kula.app",
   rating: 5,
   reviews: 69,
   slug: "example_video",
   title: "Example App",
   trending: true,
   type: "example_video",
-  url: "https://cal.com/",
+  url: "https://meet.kula.app/",
   variant: "conferencing",
   verified: true,
-  email: "help@cal.com",
+  email: "help@kula.app",
 } as App;
 
 export * as api from "./api";

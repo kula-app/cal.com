@@ -14,14 +14,14 @@ export const metadata = {
   category: "calendar",
   label: "Google Calendar",
   logo: "/apps/google-calendar.svg",
-  publisher: "Cal.com",
+  publisher: "meet.kula.app",
   rating: 5,
   reviews: 69,
   slug: "google-calendar",
   trending: false,
-  url: "https://cal.com/",
+  url: "https://meet.kula.app/",
   verified: true,
-  email: "help@cal.com",
+  email: "help@kula.app",
 } as App;
 
 export * as api from "./api";
